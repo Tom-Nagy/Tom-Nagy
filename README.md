@@ -24,7 +24,7 @@ I can wait to learn more and contribute to the world!
 
 
 ## 📫 How to reach me
-- :telephone_receiver: 087 381 9572
+- :telephone_receiver: 00353 87 381 9572
 - :email: tomnagy@hotmail.fr (Yes i am French...)
 - :european_castle: Bray co. Wicklow, Ireland
 - :office: Flexible (:motorcycle: I ride, wich makes commuting easy)
