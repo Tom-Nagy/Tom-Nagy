@@ -15,7 +15,7 @@ I feel that moving into software development is what I need. It ticks all my box
 
 I can wait to learn more and contribute to the world!
 
-:flushed: ps: I like using exclamation mark !!!:nerd_face:
+:flushed: PS: I like using exclamation mark !!!:nerd_face:
 
 ## :grey_question: About me
 - 🔭 I’m currently working on What you Need, an e-commerce where you can buy plants for your home or your office. Get What You Need Today! 	:wink:
