@@ -5,8 +5,8 @@ My name is Tom, I am from Bray co Wicklow, a city south of Dublin in Ireland.
 
 At the moment, I am studying full stack software development with Code [Code Institute](https://codeinstitute.net/) in order to become one of the top software developper :grin:
 
-I have always been a problem solver and I believe that it is a skill that is mostly transferable to any job really... but I am also driven by growth, impovement and greatness !!!
-Having a background as a manager in a hight level restaurant, I really enjoy challenges. I try to execute and produce in the best way possible. It feels good when you do *your* best and *the* best in something! It's great for you, your team and the customer!
+I have always been a problem solver and I believe that it is a skill that is mostly transferable to any job really... but I am also driven by growth, improvement and greatness !!!
+Having a background as a manager in a high level restaurant, I really enjoy challenges. I try to execute and produce in the best way possible. It feels good when you do *your* best and *the* best in something! It's great for you, your team, and the customer!
 I really enjoy life, it's amazing! I believe you can achieve anything as a game where in order to win, you need to accomplish some tasks. I am a serious guy though, but I like to challenge myself that way! :smile:
 
 As well I have an interest in Mathematics and Universe. They fascinate me!
