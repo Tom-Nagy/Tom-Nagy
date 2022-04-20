@@ -3,23 +3,25 @@
 
 My name is Tom, I am from Bray co Wicklow, a city south of Dublin in Ireland.
 
-At the moment, I am studying full stack software development with Code [Code Institute](https://codeinstitute.net/) in order to become one of the top software developper :grin:
+I just graduated full stack software development with Code [Code Institute](https://codeinstitute.net/) and aim to become one of the top software developper :grin:
 
 I have always been a problem solver and I believe that it is a skill that is mostly transferable to any job really... but I am also driven by growth, improvement and greatness !!!
 Having a background as a manager in a high level restaurant, I really enjoy challenges. I try to execute and produce in the best way possible. It feels good when you do *your* best and *the* best in something! It's great for you, your team, and the customer!
 I really enjoy life, it's amazing! I believe you can achieve anything as a game where in order to win, you need to accomplish some tasks. I am a serious guy though, but I like to challenge myself that way! :smile:
 
-As well I have an interest in Mathematics and Universe. They fascinate me!
+As well I have an interest in Solving problems, the Universe and Nature!
 
-I feel that moving into software development is what I need. It ticks all my boxes and resonate with me. Completing the last project of the course at the moment really exites me! 
+I feel that moving into software development is what I need. It ticks all my boxes and resonate with me.
+
+I engage with the community throught Slack, open-source project and hackathon! I solve coding challenges on CodeSignal regularly to stay sharp :) 
 
 I can wait to learn more and contribute to the world!
 
 :flushed: PS: I like using exclamation mark !!!:nerd_face:
 
 ## :grey_question: About me
-- 🔭 I’m currently working on What you Need, an e-commerce where you can buy plants for your home or your office. Get What You Need Today! 	:wink:
-- 🌱 I’m currently learning Full Stack Software Development Course with Code Institute.
+- 🔭 I’m currently working an open-source project!
+- 🌱 I graduated Full Stack Software Development Course with Code Institute.
 - 👯 I’m looking to collaborate on stuff and for a Job to start my new career!
 
 
