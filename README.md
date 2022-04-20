@@ -3,7 +3,7 @@
 
 My name is Tom, I am from Bray co Wicklow, a city south of Dublin in Ireland.
 
-I just graduated full stack software development with Code [Code Institute](https://codeinstitute.net/) and aim to become one of the top software developper :grin:
+I just graduated full stack software development with Code [Code Institute](https://codeinstitute.net/) and aim to become one of the top software developer :grin:
 
 I have always been a problem solver and I believe that it is a skill that is mostly transferable to any job really... but I am also driven by growth, improvement and greatness !!!
 Having a background as a manager in a high level restaurant, I really enjoy challenges. I try to execute and produce in the best way possible. It feels good when you do *your* best and *the* best in something! It's great for you, your team, and the customer!
