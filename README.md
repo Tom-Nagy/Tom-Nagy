@@ -20,7 +20,7 @@ I can wait to learn more and contribute to the world!
 :flushed: PS: I like using exclamation mark !!!:nerd_face:
 
 ## :grey_question: About me
-- 🔭 I’m currently working an open-source project!
+- 🔭 I’m currently working an open-source project! <a herf='https://github.com/Code-Institute-Community/business-analysis-project'>Check it out ⚡</a>
 - 🌱 I graduated Full Stack Software Development Course with Code Institute.
 - 👯 I’m looking to collaborate on stuff and for a Job to start my new career!
 
