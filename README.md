@@ -3,7 +3,7 @@
 
 My name is Tom, I am from Bray co Wicklow, a city south of Dublin in Ireland.
 
-I just graduated full stack software development with Code [Code Institute](https://codeinstitute.net/) and aim to become one of the top software developer :grin:
+I just graduated full stack software development with Code [Code Institute](https://codeinstitute.net/) and aim to become one of the top developer :grin:
 
 I have always been a problem solver and I believe that it is a skill that is mostly transferable to any job really... but I am also driven by growth, improvement and greatness !!!
 Having a background as a manager in a high level restaurant, I really enjoy challenges. I try to execute and produce in the best way possible. It feels good when you do *your* best and *the* best in something! It's great for you, your team, and the customer!
@@ -20,16 +20,15 @@ I can wait to learn more and contribute to the world!
 :flushed: PS: I like using exclamation mark !!!:nerd_face:
 
 ## :grey_question: About me
-- 🔭 I’m currently working an open-source project! [Check it out ⚡](https://github.com/Code-Institute-Community/business-analysis-project)
+- 🔭 I’m currently working as a Technical support Engineer at Coupa Software !
 - 🌱 I graduated Full Stack Software Development Course with Code Institute.
-- 👯 I’m looking to collaborate on stuff and for a Job to start my new career!
+- 👯 I’m looking to collaborate on project and keep learning.
 
 
 ## 📫 How to reach me
 - :telephone_receiver: 00353 87 381 9572
 - :email: tomnagy@hotmail.fr (Yes i am French...)
 - :european_castle: Bray co. Wicklow, Ireland
-- :office: Flexible (:motorcycle: I ride, wich makes commuting easy)
 
 ## GitHub statistics 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Nagy&show_icons=true&theme=tokyonight&hide=prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Nagy&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
